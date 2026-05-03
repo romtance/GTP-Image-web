@@ -1,0 +1,13 @@
+{
+  "name": "gpt-image-generator",
+  "version": "1.0.0",
+  "description": "GPT Image Generator Web Frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["gpt", "image", "generator", "ai"],
+  "author": "",
+  "license": "MIT"
+}
